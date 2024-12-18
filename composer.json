@@ -1,0 +1,16 @@
+{
+    "name": "progammerkece/mvc",
+    "description": "belajar mvc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Progammerkece\\Mvc\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "indra"
+        }
+    ],
+    "require": {}
+}
